@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "d77e512404f51438",
+    "type": "split",
+    "children": [
+      {
+        "id": "127097d00e48f4e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af0ab820fd33319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Configuration/1.Basics.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1.Basics"
+            }
+          },
+          {
+            "id": "fc72d41de6217754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Configuration/2.Options pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Options pattern"
+            }
+          },
+          {
+            "id": "2bdb747679a5e673",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75d902fafee168bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a31e81cda0fc3f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c54383f1c334d4c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ccacb603cbd977c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8a39b320e4f380a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de83a1d4e4a2ad2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ff017ddab4ce4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df9d9e5d5e453b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "60eb872a57d14d2a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8140c49e2577c997",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05c232fec02d3221",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b24d5794db01ebf8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b24d5794db01ebf8",
+  "lastOpenFiles": [
+    "Application Configuration/3.IOptions-IOptionsMonitor-IOptionSnapshot.md",
+    "Application Configuration/2.Options pattern.md",
+    "Application Configuration/1.Basics.md",
+    "Clean Architecture/Basics.md",
+    "Pasted image 20250504143102.png",
+    "Application Configuration/4. Validations.md",
+    "Clean Architecture",
+    "Application Configuration/Untitled.canvas",
+    "Conf.md",
+    "Application Configuration",
+    "Application Configuration",
+    "Welcome.md",
+    "myspace",
+    "clean-code/clean-code",
+    "clean-code"
+  ]
+}
