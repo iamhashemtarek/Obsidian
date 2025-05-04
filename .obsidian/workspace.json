@@ -39,10 +39,14 @@
             "id": "2bdb747679a5e673",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Logging/Structured Logging - SeriLog.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structured Logging - SeriLog"
             }
           }
         ],
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Logging/Structured Logging - SeriLog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Structured Logging - SeriLog"
             }
           },
           {
@@ -137,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Logging/Structured Logging - SeriLog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Structured Logging - SeriLog"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Logging/Structured Logging - SeriLog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Structured Logging - SeriLog"
             }
           },
           {
@@ -201,8 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b24d5794db01ebf8",
+  "active": "2bdb747679a5e673",
   "lastOpenFiles": [
+    "Logging/Structured Logging - SeriLog.md",
+    "Logging",
     "Application Configuration/3.IOptions-IOptionsMonitor-IOptionSnapshot.md",
     "Application Configuration/2.Options pattern.md",
     "Application Configuration/1.Basics.md",
