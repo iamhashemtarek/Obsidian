@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/xUnit and Moq.md",
+                "file": "Hangfire/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xUnit and Moq"
+              "title": "Basics"
             }
           }
         ]
@@ -181,15 +181,19 @@
   },
   "active": "03a03b73f0a49c2e",
   "lastOpenFiles": [
-    "Application Configuration/2.Options pattern.md",
+    "Pasted image 20250505123628.png",
+    "Pasted image 20250505122823.png",
+    "Pasted image 20250504143102.png",
+    "Hangfire/Basics.md",
     "Testing/xUnit and Moq.md",
+    "Hangfire",
+    "Application Configuration/2.Options pattern.md",
     "Testing",
     "Application Configuration/1.Basics.md",
     "Clean Architecture/Basics.md",
     "Logging/Structured Logging - SeriLog.md",
     "Logging",
     "Application Configuration/3.IOptions-IOptionsMonitor-IOptionSnapshot.md",
-    "Pasted image 20250504143102.png",
     "Application Configuration/4. Validations.md",
     "Clean Architecture",
     "Application Configuration/Untitled.canvas",
