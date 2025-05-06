@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hangfire/Basics.md",
+                "file": "Clean Architecture/Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "Example"
             }
           }
         ]
@@ -181,16 +181,17 @@
   },
   "active": "03a03b73f0a49c2e",
   "lastOpenFiles": [
+    "Clean Architecture/Basics.md",
+    "Clean Architecture/Example.md",
+    "Hangfire/Basics.md",
     "Pasted image 20250505123628.png",
     "Pasted image 20250505122823.png",
     "Pasted image 20250504143102.png",
-    "Hangfire/Basics.md",
     "Testing/xUnit and Moq.md",
     "Hangfire",
     "Application Configuration/2.Options pattern.md",
     "Testing",
     "Application Configuration/1.Basics.md",
-    "Clean Architecture/Basics.md",
     "Logging/Structured Logging - SeriLog.md",
     "Logging",
     "Application Configuration/3.IOptions-IOptionsMonitor-IOptionSnapshot.md",
