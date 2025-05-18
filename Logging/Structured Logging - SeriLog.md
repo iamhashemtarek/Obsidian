@@ -1,4 +1,4 @@
-Here’s a **complete and structured guide** to understanding and implementing **Structured Logging in ASP.NET Core with Serilog**, including concepts, setup, code explanations, and best practices — all wrapped into one organized answer.
+	Here’s a **complete and structured guide** to understanding and implementing **Structured Logging in ASP.NET Core with Serilog**, including concepts, setup, code explanations, and best practices — all wrapped into one organized answer.
 
 ---
 

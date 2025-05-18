@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dad62c3e043f513e",
+        "id": "807269d9c7b5cf7b",
         "type": "tabs",
         "children": [
           {
-            "id": "03a03b73f0a49c2e",
+            "id": "c67f2ae7dca0d311",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clean Architecture/Example.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Example"
+              "title": "New tab"
             }
           }
         ]
@@ -166,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,31 +175,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03a03b73f0a49c2e",
+  "active": "b24d5794db01ebf8",
   "lastOpenFiles": [
-    "Clean Architecture/Basics.md",
-    "Clean Architecture/Example.md",
+    "Estimation.md",
+    "Security/JWT/NBF & JTI & ClockSkew.md",
+    "CQRS/3.deeply explore.md",
+    "Security/JWT/Untitled",
+    "Security/JWT",
+    "Security",
+    "CQRS/IMediator VS. ISender.md",
+    "CQRS/Confusion.md",
+    "Miscellaneous/Records.md",
+    "Miscellaneous/mutability vs. immutability.md",
+    "Miscellaneous/with-expression.md",
+    "CQRS/2.Pros of CQRS.md",
+    "Miscellaneous",
+    "CQRS/1.what's CQRS.md",
     "Hangfire/Basics.md",
+    "CQRS",
+    "Logging/Structured Logging - SeriLog.md",
+    "Application Configuration/4. Validations.md",
+    "Application Configuration/2.Options pattern.md",
+    "Testing/xUnit and Moq.md",
+    "Clean Architecture/Example.md",
+    "Clean Architecture/Basics.md",
     "Pasted image 20250505123628.png",
     "Pasted image 20250505122823.png",
     "Pasted image 20250504143102.png",
-    "Testing/xUnit and Moq.md",
     "Hangfire",
-    "Application Configuration/2.Options pattern.md",
     "Testing",
     "Application Configuration/1.Basics.md",
-    "Logging/Structured Logging - SeriLog.md",
     "Logging",
     "Application Configuration/3.IOptions-IOptionsMonitor-IOptionSnapshot.md",
-    "Application Configuration/4. Validations.md",
     "Clean Architecture",
     "Application Configuration/Untitled.canvas",
     "Conf.md",
     "Application Configuration",
-    "Application Configuration",
-    "Welcome.md",
-    "myspace",
-    "clean-code/clean-code",
-    "clean-code"
+    "Welcome.md"
   ]
 }
