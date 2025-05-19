@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/Debug vs Release.md",
+                "file": "Performance/Benchmarking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debug vs Release"
+              "title": "Benchmarking"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miscellaneous/Debug vs Release.md",
+                "file": "Performance/Benchmarking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Debug vs Release"
+              "title": "Outline of Benchmarking"
             }
           },
           {
@@ -179,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05c232fec02d3221",
+  "active": "c67f2ae7dca0d311",
   "lastOpenFiles": [
+    "Miscellaneous/v.md",
+    "Performance/Benchmarking.md",
+    "Performance",
     "Miscellaneous/Debug vs Release.md",
     "Estimation.md",
     "Security/JWT/NBF & JTI & ClockSkew.md",
@@ -215,7 +218,6 @@
     "Clean Architecture",
     "Application Configuration/Untitled.canvas",
     "Conf.md",
-    "Application Configuration",
     "Welcome.md"
   ]
 }
