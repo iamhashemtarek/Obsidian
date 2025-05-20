@@ -1,3 +1,4 @@
+implementation: http://youtube.com/watch?v=kR_9gRBeRMQ&t=284s 
 ## 🧠 1. First, What is a Token?
 
 In a secure app (like a Web API):
@@ -168,3 +169,4 @@ Response:
 |Where stored?|Client-side (secure) and backend (DB)|
 
 ---
+
