@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "807269d9c7b5cf7b",
+        "id": "ef5441cd59d9af6c",
         "type": "tabs",
         "children": [
           {
-            "id": "c67f2ae7dca0d311",
+            "id": "bcbdcfa4674c6cf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/JWT/Refresh Token.md",
+                "file": "JahezTeamTempelate/Application/Domain event pattern/domain event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refresh Token"
+              "title": "domain event"
             }
           }
         ]
@@ -179,46 +179,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c67f2ae7dca0d311",
+  "active": "bcbdcfa4674c6cf1",
   "lastOpenFiles": [
-    "Performance/Benchmarking.md",
+    "JahezTeamTempelate/APIs/2.IResult in controllers.md",
+    "JahezTeamTempelate/APIs/MVC Pipeline.md",
+    "JahezTeamTempelate/APIs/1.minimal apis vs controllers.md",
+    "JahezTeamTempelate/SharedKernel/Result Pattern/Result.md",
+    "JahezTeamTempelate/APIs",
+    "JahezTeamTempelate/Application/Domain event pattern/domain event.md",
+    "JahezTeamTempelate/Application/CQRS + Mediator-like Pattern/Decorators.md",
+    "JahezTeamTempelate/Application/Domain event pattern",
+    "JahezTeamTempelate/Application/CQRS + Mediator-like Pattern/Usage and workflow.md",
+    "JahezTeamTempelate/Application/CQRS + Mediator-like Pattern/quick overview.md",
+    "JahezTeamTempelate/Application/CQRS + Mediator-like Pattern",
+    "JahezTeamTempelate/Application",
+    "JahezTeamTempelate/SharedKernel/Result/Untitled",
+    "JahezTeamTempelate/SharedKernel/Result Pattern/implicit conversion.md",
+    "JahezTeamTempelate/SharedKernel/Errors/Params.md",
+    "JahezTeamTempelate/SharedKernel/Result Pattern",
+    "JahezTeamTempelate/SharedKernel/Entity",
+    "JahezTeamTempelate/SharedKernel/Errors/Errors.md",
+    "JahezTeamTempelate/SharedKernel/Errors",
+    "JahezTeamTempelate/SharedKernel/Entity/spread operator.md",
+    "JahezTeamTempelate/SharedKernel/Entity/Entity.md",
     "Security/JWT/Refresh Token.md",
+    "JahezTeamTempelate/SharedKernel",
+    "JahezTeamTempelate",
+    "Performance/Benchmarking.md",
     "Miscellaneous/v.md",
-    "Performance",
     "Miscellaneous/Debug vs Release.md",
     "Estimation.md",
     "Security/JWT/NBF & JTI & ClockSkew.md",
     "CQRS/3.deeply explore.md",
-    "Security/JWT/Untitled",
-    "Security/JWT",
-    "Security",
     "CQRS/IMediator VS. ISender.md",
     "CQRS/Confusion.md",
     "Miscellaneous/Records.md",
     "Miscellaneous/mutability vs. immutability.md",
     "Miscellaneous/with-expression.md",
     "CQRS/2.Pros of CQRS.md",
-    "Miscellaneous",
-    "CQRS/1.what's CQRS.md",
-    "Hangfire/Basics.md",
-    "CQRS",
-    "Logging/Structured Logging - SeriLog.md",
-    "Application Configuration/4. Validations.md",
-    "Application Configuration/2.Options pattern.md",
-    "Testing/xUnit and Moq.md",
-    "Clean Architecture/Example.md",
-    "Clean Architecture/Basics.md",
     "Pasted image 20250505123628.png",
     "Pasted image 20250505122823.png",
     "Pasted image 20250504143102.png",
-    "Hangfire",
-    "Testing",
-    "Application Configuration/1.Basics.md",
-    "Logging",
-    "Application Configuration/3.IOptions-IOptionsMonitor-IOptionSnapshot.md",
-    "Clean Architecture",
-    "Application Configuration/Untitled.canvas",
-    "Conf.md",
-    "Welcome.md"
+    "Application Configuration/Untitled.canvas"
   ]
 }
