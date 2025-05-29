@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72eeced63fc3a97a",
+        "id": "0816d67115167465",
         "type": "tabs",
         "children": [
           {
-            "id": "794e5045224b87e5",
+            "id": "1944d85aca4eab3d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,8 +175,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "794e5045224b87e5",
+  "active": "1944d85aca4eab3d",
   "lastOpenFiles": [
+    "Database & EF/Pagination.md",
     "Database & EF/1.3Refreshing script.md",
     "Database & EF/1.1Query Plan, Statictics.md",
     "Database & EF/1.2Refreshing execution plans and statistics.md",
@@ -212,7 +213,6 @@
     "Security/JWT/NBF & JTI & ClockSkew.md",
     "CQRS/3.deeply explore.md",
     "CQRS/IMediator VS. ISender.md",
-    "CQRS/Confusion.md",
     "Pasted image 20250505123628.png",
     "Pasted image 20250505122823.png",
     "Pasted image 20250504143102.png",
