@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JahezTeamTempelate/Application/Domain event pattern/domain event.md",
+                "file": "Database & EF/Query Plan, Statictics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "domain event"
+              "title": "Query Plan, Statictics"
             }
           }
         ]
@@ -181,12 +181,15 @@
   },
   "active": "bcbdcfa4674c6cf1",
   "lastOpenFiles": [
+    "Database & EF/CountAsync.md",
+    "Database & EF/Query Plan, Statictics.md",
+    "JahezTeamTempelate/Application/Domain event pattern/domain event.md",
+    "Database & EF",
     "JahezTeamTempelate/APIs/2.IResult in controllers.md",
     "JahezTeamTempelate/APIs/MVC Pipeline.md",
     "JahezTeamTempelate/APIs/1.minimal apis vs controllers.md",
     "JahezTeamTempelate/SharedKernel/Result Pattern/Result.md",
     "JahezTeamTempelate/APIs",
-    "JahezTeamTempelate/Application/Domain event pattern/domain event.md",
     "JahezTeamTempelate/Application/CQRS + Mediator-like Pattern/Decorators.md",
     "JahezTeamTempelate/Application/Domain event pattern",
     "JahezTeamTempelate/Application/CQRS + Mediator-like Pattern/Usage and workflow.md",
@@ -204,7 +207,6 @@
     "JahezTeamTempelate/SharedKernel/Entity/Entity.md",
     "Security/JWT/Refresh Token.md",
     "JahezTeamTempelate/SharedKernel",
-    "JahezTeamTempelate",
     "Performance/Benchmarking.md",
     "Miscellaneous/v.md",
     "Miscellaneous/Debug vs Release.md",
@@ -215,8 +217,6 @@
     "CQRS/Confusion.md",
     "Miscellaneous/Records.md",
     "Miscellaneous/mutability vs. immutability.md",
-    "Miscellaneous/with-expression.md",
-    "CQRS/2.Pros of CQRS.md",
     "Pasted image 20250505123628.png",
     "Pasted image 20250505122823.png",
     "Pasted image 20250504143102.png",
