@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database & EF/Query Plan, Statictics.md",
+                "file": "Database & EF/1.2Refreshing execution plans and statistics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Query Plan, Statictics"
+              "title": "1.2Refreshing execution plans and statistics"
             }
           }
         ]
@@ -181,8 +181,9 @@
   },
   "active": "bcbdcfa4674c6cf1",
   "lastOpenFiles": [
-    "Database & EF/CountAsync.md",
-    "Database & EF/Query Plan, Statictics.md",
+    "Database & EF/1.1Query Plan, Statictics.md",
+    "Database & EF/1.2Refreshing execution plans and statistics.md",
+    "Database & EF/1.0CountAsync.md",
     "JahezTeamTempelate/Application/Domain event pattern/domain event.md",
     "Database & EF",
     "JahezTeamTempelate/APIs/2.IResult in controllers.md",
@@ -216,7 +217,6 @@
     "CQRS/IMediator VS. ISender.md",
     "CQRS/Confusion.md",
     "Miscellaneous/Records.md",
-    "Miscellaneous/mutability vs. immutability.md",
     "Pasted image 20250505123628.png",
     "Pasted image 20250505122823.png",
     "Pasted image 20250504143102.png",
