@@ -272,18 +272,70 @@ after *remove from role/roles*
   ]
 //res
 204 No Content
+````
+
+
+## Account
+#### Register
+```json
+before: 
+//req 
+//res
+{
+  "succeeded": true,
+  "errors": []
+}
+after: 
+//req  //no changes
+//res
+201 Created
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Login
+```json
+before:
+//req
+{
+  "username": "string",
+  "password": "string"
+}
+//res
+{
+  "isAuthenticated": true,
+  "token": "",
+  "expiresOn": null
+}
+after:
+//req
+{
+  "userIdentifier": "",
+  "password": "",
+  "rememberMe": true
+}
+//res
+{
+  "succeeded": true,
+  "token": "",
+  "userId": "",
+  "email": "",
+  "firstName": "",
+  "lastName": "",
+  "roles": []
+}
+```
+#### Change-Password
+```json
+before:
+//req
+//res
+{
+  "succeeded": true,
+  "errors": [
+    "string"
+  ]
+}
+after:
+//req (no changes)
+//res
+204 No Content
+```
