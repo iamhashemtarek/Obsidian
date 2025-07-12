@@ -11,17 +11,35 @@
             "id": "e7d38d8c98496702",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "186282b20783706a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/bf&af.md",
+                "file": "Database & EF/EF.Like Vs Contains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bf&af"
+              "title": "EF.Like Vs Contains"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,10 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7d38d8c98496702",
+  "active": "186282b20783706a",
   "lastOpenFiles": [
-    "Application Configuration/2.Options pattern.md",
+    "dsaf.md",
+    "Database & EF/EF.Like Vs Contains.md",
+    "Untitled.canvas",
+    "Logging/Structured Logging - SeriLog.md",
     "temp/bf&af.md",
+    "Application Configuration/2.Options pattern.md",
     "Security/custom authorization.md",
     "temp",
     "Database & EF/Pagination.md",
@@ -214,9 +236,6 @@
     "JahezTeamTempelate/SharedKernel/Entity/Entity.md",
     "Security/JWT/Refresh Token.md",
     "Performance/Benchmarking.md",
-    "Miscellaneous/v.md",
-    "Miscellaneous/Debug vs Release.md",
-    "Estimation.md",
     "Pasted image 20250505123628.png",
     "Pasted image 20250505122823.png",
     "Pasted image 20250504143102.png",
